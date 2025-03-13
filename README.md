@@ -57,6 +57,8 @@ Ensure you have Python installed.
 export DATA_FOLDER=<FOLDER-THAT-CONTAINS-FOLLOWERS-AND-FOLLOWING-JSON>
 python extract.py
 ```
+Also, Please find the same working code with minute changes compared to the local script from my google colab
+https://colab.research.google.com/drive/13ahPYiKsUycAQbm760ojqDdbQf9P3p-M?usp=sharing
 
 ### **Step 3: Have fun finding out who exactly unfollowed you after some days of sending you request and unfollow them too!**
 
